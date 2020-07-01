@@ -29,7 +29,7 @@ Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (lo
 
 <div align="center">
 
-![aircnc](https://user-images.githubusercontent.com/48495838/85321747-928f0b00-b49b-11ea-8d5e-bd331bf2830a.png)
+![aircnc](https://user-images.githubusercontent.com/48495838/86251620-7caed380-bb88-11ea-9ee7-6ee0300c1b9b.png)
 
 <br><br>
 
