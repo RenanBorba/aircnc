@@ -54,7 +54,7 @@ Aplicação Front-end desenvolvida em ReactJS para clone do app AirBnB web respo
 
 <br><br><br>
 
-## :mega: Abaixo as principais estruturas e interfaces:
+## :mega: ⬇ Abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
