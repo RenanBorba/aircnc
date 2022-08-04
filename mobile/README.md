@@ -61,7 +61,7 @@ Aplicação Front-end Mobile desenvolvida em React Native para clone do app AirB
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interfaces:
+## :mega: Abaixo as principais estruturas e interfaces:
 
 <br><br><br>
 
