@@ -23,7 +23,7 @@
 
 <br>
 
-Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (locais) para devs, permitindo interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile).
+Aplicação para clone do aplicativo AirBnB, voltada para locação de spots (locais) para devs, permitindo a interação em tempo real (Web Socket) entre proprietário (web) e cliente (mobile).
 
 <br><br>
 
